@@ -1,0 +1,7 @@
+2:I[5892,["310","static/chunks/0e5ce63c-56be6531e1e7712a.js","683","static/chunks/683-5f083b7debb4292a.js","931","static/chunks/app/page-4e90d8de75b887e4.js"],"default"]
+3:I[4707,[],""]
+4:I[3490,["601","static/chunks/app/error-d9a73c7015906917.js"],"default"]
+5:I[6423,[],""]
+0:["AUXsjIlPtPnGh7d_Q2UlG",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{}],null],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5b665072b8d0cd2e.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__className_d44f2f","children":["$","body",null,{"children":["$","div",null,{"className":"min-h-screen bg-background overflow-x-hidden","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$4","errorStyles":[],"errorScripts":[],"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"style":{"height":"100vh","display":"flex","alignItems":"center","justifyContent":"center","flexDirection":"column"},"children":[["$","h1",null,{"children":"404"}],["$","p",null,{"children":"Page Not Found"}]]}],"notFoundStyles":[]}]}]}]}]],null],null],["$L6",null]]]]
+6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Sristy"}],["$","meta","3",{"name":"description","content":"I design and develop web applications."}]]
+1:null
